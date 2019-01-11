@@ -1,2 +1,2 @@
 # pouchdb-dac-nacl
-NaCl Signing provider for pouchdb-dac
+NaCl encryption provider for 'pouchdb-dac'
